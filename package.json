@@ -1,0 +1,11 @@
+{
+  "name": "recruiters_fight",
+  "version": "0.0.0",
+  "description": "Backend of application where headhunters can fight with another headhunters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Kolodziej",
+  "license": "MIT"
+}
